@@ -1,4 +1,4 @@
-## Hi, I'm Sabarish 👋
+## Hi, I'm Sabarish 
 
 - 🔭 I’m currently working on an inventory manager
 - 🌱 I’m currently learning GoLang
