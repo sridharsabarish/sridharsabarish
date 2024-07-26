@@ -12,3 +12,7 @@
 - 🤔 I’m looking for help with FI
 
    ----!>
+
+
+![sridharsabarish stats overview](https://github-readme-stats.vercel.app/api?username=sridharsabarish&count_private=true&show_icons=true)
+![sridharsabarish languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sridharsabarish&layout=compact&hide=eagle)
