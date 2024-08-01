@@ -1,7 +1,7 @@
 ## Hi, I'm Sabarish 
 
 - 🔭 I’m currently working on an inventory manager
-- 🌱 I’m currently learning GoLang
+- 🌱 I’m currently learning GoLang/RUST
 - 👯 I’m looking to collaborate on Embedded Projects
 
 
