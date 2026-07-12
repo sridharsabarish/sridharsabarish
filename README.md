@@ -1,3 +1,64 @@
+Skip to content
+sridharsabarish
+sridharsabarish
+Repository navigation
+Code
+Issues
+Pull requests
+Agents
+Actions
+Projects
+Wiki
+Security and quality
+Insights
+Settings
+sridharsabarish/sridharsabarish is a special repository: its README.md will appear on your profile!
+sridharsabarish
+/
+README.md
+in
+main
+
+Edit
+
+Preview
+Indent mode
+
+Spaces
+Indent size
+
+2
+Line wrap mode
+
+Soft wrap
+Editing README.md file contents
+  1
+  2
+  3
+  4
+  5
+  6
+  7
+  8
+  9
+ 10
+ 11
+ 12
+ 13
+ 14
+ 15
+ 16
+ 17
+ 18
+ 19
+ 20
+ 21
+ 22
+ 23
+ 24
+ 25
+ 26
+ 27
 # 💫 About Me:
 I'm an embedded software Engineer with 6 years of experience. i work with C++, python.<br><br>🌱 I’m currently learning RUST<br><br>👯 I’m looking to collaborate on Embedded Projects<br><br>📫 How to reach me: sabarish.sr@outlook.com<br><br>😄 Pronouns: He/Him
 
@@ -13,15 +74,21 @@ I'm an embedded software Engineer with 6 years of experience. i work with C++, p
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sridharsabarish&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sridharsabarish&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=sridharsabarish&theme=synthwave&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sridharsabarish&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=sridharsabarish&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
 [![](https://komarev.com/ghpvc/?username=sridharsabarish&icon=6&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
+No file chosen
+Attach files by dragging & dropping, selecting or pasting them.
+ Octotree
+ Login with GitHub
+ 
